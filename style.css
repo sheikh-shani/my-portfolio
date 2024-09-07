@@ -320,20 +320,7 @@ span {
     align-items: center;
 }
 
-.about-img .hob{
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    width: 240px;
-    display: flex;
-    height: 240px;
-    border-radius: 50%;
-}
 
-.about-img .hob:hover{
-    transition: 0.5s;
-    transform: scale(1.1);
-}
 
 .about-img img {
     width: 90%;
